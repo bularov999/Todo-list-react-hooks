@@ -1,0 +1,12 @@
+const ADD_TODO = 'ADD_TODO'
+const DELETE_TODO = 'DELETE_TODO'
+const DONE_TODO = 'DONE_TODO'
+const SELECTED_TODO = 'SELECTED_TODO'
+
+
+export {
+    ADD_TODO,
+    DELETE_TODO,
+    DONE_TODO,
+    SELECTED_TODO,
+}

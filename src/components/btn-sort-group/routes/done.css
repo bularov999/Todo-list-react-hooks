@@ -1,0 +1,12 @@
+ul {
+    margin:20px 0 0 0;
+    padding:0;
+}
+.done {
+    text-decoration: line-through;
+    margin-top:10px;
+    font-size:16px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    word-wrap: break-word;
+
+}

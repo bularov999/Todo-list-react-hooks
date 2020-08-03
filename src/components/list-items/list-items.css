@@ -1,0 +1,36 @@
+.clear {
+  clear: both;
+}
+.content {
+  margin-top: 70px;
+  cursor: pointer;
+}
+.content ul {
+  margin: 0;
+  padding: 0;
+}
+.list-item {
+  font-style: italic;
+  font-size: 20px;
+  list-style: none;
+}
+.list-item label{
+  display: inline-block;
+  vertical-align: top;
+  text-align: start;
+  word-wrap: break-word;
+  max-width:400px;
+}
+.icon {
+  margin-left: 15px;
+}
+.icon-star {
+  color: yellow;
+  font-size: 25px;
+}
+.checkbox {
+  margin-right: 20px;    
+}
+.cross {
+  color:red;
+}
